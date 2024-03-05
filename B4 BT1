@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BT1</title>
+</head>
+<body>
+    <H4>LÁI ÔTÔ BẰNG THÓI QUEN XE MÁY</H4>
+    <P>Nhiều <b style="color:Tomato;">nạn liên hoàn</b> xảy ra vào dịp Tết đã tạo nên những cuộc tranh luận lớn
+        mà phần lớn đều cho rằng <i>ý thức tài xế là yếu tố quyết định</i>. Tôi nhận thấy đây là
+        tình hình đáng quan tâm và cần có nhiều điều chỉnh về cả ý thức lẫn kỹ thuật.</P>
+    <P style="color:violet;">Thống kê tai nạn</P>
+    <P>Do không có thông số thống kê của Việt Nam, tôi dùng một số thống kê của Mỹ
+        trong giáo trình cho sinh viên. <ins>Tai nạn liên hoàn</ins> thường xảy ra trên đường hai làn
+        (tính trên một chiều) hoặc tại điểm nhập từ hai thành một làn. Đường một làn lại
+        thường hiếm tai nạn liên hoàn. Khoảng <b>76,5%</b> tai nạn xảy ra khi vượt ẩu. <del>Một va
+        chạm nhẹ lúc này có thể làm xe mất phương hướng và đâm nhiều phương tiện</del>.</P>
+</body>
+</html>
